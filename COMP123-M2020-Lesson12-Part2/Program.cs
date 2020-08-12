@@ -16,7 +16,7 @@ namespace COMP123_M2020_Lesson12_Part2
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new TestForm());
         }
     }
 }
